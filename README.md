@@ -1,4 +1,4 @@
-- 👋 Hi, I’m AJIT BHAIK
+- 👋 Hi, I’m *AJIT BHAIK*
 - 👀 I’m a full time programmer for MERN stack applications
 - 🌱 I’m currently learning PostgreSQL
 - 📫 You can reach me on my mail bag3557@gmail.com
